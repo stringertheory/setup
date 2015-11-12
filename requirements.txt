@@ -1,0 +1,6 @@
+virtualenvwrapper
+pyfiglet
+Fabric
+fabtools
+jinja2
+requests[security]
