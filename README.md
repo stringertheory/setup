@@ -2,6 +2,8 @@ Setting up a new Mac.
 
 Mostly, I just followed [this guide](http://sourabhbajaj.com/mac-setup/index.html), it has a lot of the major things to do. There are some extra things, though that are jotted down here.
 
+This [dotfiles](https://github.com/mathiasbynens/dotfiles) repository is also a good place to look for ideas.
+
 ## Shell
 
 Make sure `~/.bash_profile` is sourcing the `~/.bashrc` with `if [ -f ~/.bashrc ]; then . ~/.bashrc; fi`.
