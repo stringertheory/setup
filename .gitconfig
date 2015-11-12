@@ -1,0 +1,9 @@
+[user]
+	name = stringertheory
+	email = mike.stringer@datascopeanalytics.com
+[core]
+	excludesfile = /Users/stringer/.gitignore_global
+[push]
+	default = simple
+[http]
+	cookiefile = /Users/stringer/.gitcookies
