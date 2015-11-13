@@ -6,7 +6,9 @@ This [dotfiles](https://github.com/mathiasbynens/dotfiles) repository is also a 
 
 ## Shell
 
-Make sure `~/.bash_profile` is sourcing the `~/.bashrc` with `if [ -f ~/.bashrc ]; then . ~/.bashrc; fi`.
+Clone [bashit](https://github.com/stringertheory/bash-it) into `~/.bash_it` and run the `install.sh` script in that repository. You may want to check if that fork has diverged and merge from the [origin](https://github.com/Bash-it/bash-it) first.
+
+Change the theme to `stringer`.
 
 ## Homebrew
 
