@@ -4,3 +4,6 @@ Fabric
 fabtools
 jinja2
 requests[security]
+autopep8
+pep8
+pylint
